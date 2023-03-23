@@ -1,0 +1,7 @@
+# Test links:
+
+# Direct X:
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=35
+
+# Visual C++:
+https://aka.ms/vs/17/release/vc_redist.x64.exe
